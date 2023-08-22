@@ -1,2 +1,2 @@
 Ejemplo de read me Prueba
-prueba 2
+prueba 2 jhoana 
